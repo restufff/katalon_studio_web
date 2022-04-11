@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Spektra_FIFADA</name>
+   <tag></tag>
+   <elementGuidId>80168ab3-000a-4b12-8246-567978fba1f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/app/div[@data-is='workspace']/div/div[@ref='menu']/div[7]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//body/app/div[@data-is='workspace']/div/div[@ref='menu']/div[7]/div[1]</value>
+   </webElementXpaths>
+</WebElementEntity>

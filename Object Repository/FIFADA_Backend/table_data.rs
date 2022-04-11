@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>table_data</name>
+   <tag></tag>
+   <elementGuidId>5fc0843b-a1a6-4186-b7f8-a170bf259961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/app/div[1]/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/div/table</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/app/div[1]/div[2]/div[2]/div/div[1]/div[2]/div/div[2]/div/table</value>
+   </webElementXpaths>
+</WebElementEntity>

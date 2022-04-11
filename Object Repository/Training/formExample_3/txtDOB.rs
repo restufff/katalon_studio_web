@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtDOB</name>
+   <tag></tag>
+   <elementGuidId>bf866928-f5ef-4af2-ad12-5c5d35dd0079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='personalInfo']/tbody/tr[2]/td/input[@id=&quot;a07f9e5f-66ac-4306-914f-b30219382e52&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

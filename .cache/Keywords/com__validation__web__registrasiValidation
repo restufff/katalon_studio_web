@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B21D17F306A88F93CF1B49B115929056",
+  "keywordClasses": [
+    {
+      "name": "com.validation.web.registrasiValidation",
+      "keywordMethods": [
+        {
+          "name": "verifyRegistration",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

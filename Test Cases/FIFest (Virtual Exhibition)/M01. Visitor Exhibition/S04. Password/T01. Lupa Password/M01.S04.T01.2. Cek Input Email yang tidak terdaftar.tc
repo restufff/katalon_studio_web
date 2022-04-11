@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M01.S04.T01.2. Cek Input Email yang tidak terdaftar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>807e92c2-692d-47ad-8ae5-f88a07751369</testCaseGuid>
+</TestCaseEntity>

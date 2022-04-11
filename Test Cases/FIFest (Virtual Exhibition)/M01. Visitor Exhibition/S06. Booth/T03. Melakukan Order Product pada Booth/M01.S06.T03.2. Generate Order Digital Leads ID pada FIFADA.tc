@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>M01.S06.T03.2. Generate Order Digital Leads ID pada FIFADA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>139c4324-fac8-4292-8246-b868f5234223</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf796ded-0482-4a23-b1f5-ea466d6940cb</id>
+      <masked>false</masked>
+      <name>eleWidht</name>
+   </variable>
+</TestCaseEntity>
